@@ -46,26 +46,30 @@
         "sneaker-white sneaker-white model sneaker-silver";
     gap: 30px;
 }
-.top1-content{
+
+.top1-content {
     position: absolute;
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
 }
-.card-title{
+
+.card-title {
     color: #ededed;
     font-size: 1.25rem;
     font-weight: 400;
     margin-bottom: 10px;
 }
-.card-subtitle{
+
+.card-subtitle {
     color: #ededed;
     font-size: 1.5rem;
     font-weight: 400;
     margin-bottom: 20px;
 }
-.cta-group{
+
+.cta-group {
     display: flex;
     gap: 10px;
 }
